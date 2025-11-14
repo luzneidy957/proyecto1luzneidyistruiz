@@ -1,0 +1,97 @@
+body{
+    background-color: #FFFFFF;
+} 
+.li1{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+   
+}
+
+.news{
+    text-align: center;
+}
+.holiday{
+    text-align: center;
+  
+}
+.generos{
+    list-style-type: none;
+    display: flex;
+}
+.p1{
+    text-align: center;
+    width: 50%;
+    height: auto;
+    margin: 0% auto;
+    font-family:  'Helvetica Neue';
+    font-size: medium;
+}
+.generos2{
+    list-style-type: none;
+    display: flex;
+
+}
+
+    
+.listagene1{
+    list-style-type: none;
+    display: flex;
+    gap: 40px;
+}
+
+.listagene2{
+    list-style-type: none;
+    display: flex;
+    gap: 40px;
+}
+
+.chocolate{
+    text-align: center;
+}
+.p2{
+    text-align: center;
+   font-family: 'Helvetica Neue';
+   font-size: medium;
+   height: auto;
+}
+.listagene3{
+    list-style-type: none;
+    display: flex;
+    text-align: center;
+}
+
+.galleria{
+    text-align: center;
+   font-family: Roboto;
+}
+.p3{
+    width: 50%;
+    margin: 0% auto;
+    height: auto;
+    text-align: center;
+    font-family: 'Helvetica Neue';
+     font-size: medium;
+}
+
+.fondo2{
+    background-color: #111111;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
